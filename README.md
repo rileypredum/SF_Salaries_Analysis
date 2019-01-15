@@ -42,4 +42,4 @@ Have the .db file in your working directory and it should all work assuming you 
 
 ## Author
 
-* **Riley Predum** - *Initial work* - [RileyPredum](https://github.com/rileypredum)
+* **Riley Predum** - [RileyPredum](https://github.com/rileypredum)
